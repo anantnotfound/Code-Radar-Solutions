@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int a,b;
-    scanf("")
-    printf("%s", welcome());
+    scanf("%d %d", &a, &b);
+    printf("Product:", a*b);
     return 0;
 }
