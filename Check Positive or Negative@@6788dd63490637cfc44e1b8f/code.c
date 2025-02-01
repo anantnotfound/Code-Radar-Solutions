@@ -2,7 +2,10 @@
 int main() {
     int a,b;
     scanf("%d %d", &a, &b);
-    if(a > 0)
-    printf("%s", welcome());
+    if(a > 0){
+        printf("Positive");
+    }else{
+        printf("Negative");
+    }
     return 0;
 }
