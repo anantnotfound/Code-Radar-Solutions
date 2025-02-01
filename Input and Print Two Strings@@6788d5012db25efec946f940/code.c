@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main() 
 {
-    char str
-    printf("%s", welcome());
+    char str[69];
+    scanf("%s")
+    printf("%s", str);
     return 0;
 }
