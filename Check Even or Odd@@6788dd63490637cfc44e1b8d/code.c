@@ -3,9 +3,13 @@ int main()
 {
     int A;
     scanf("%d", &A);
-    if (num % 2 == 0);{
-    printf("Even\n");}
-    else;{
-    printf("odd");}
+    if (A % 2 == 0);
+    {
+    printf("Even\n");
+    }
+    else;
+    {
+    printf("odd");
+    }
     return 0;
 }
