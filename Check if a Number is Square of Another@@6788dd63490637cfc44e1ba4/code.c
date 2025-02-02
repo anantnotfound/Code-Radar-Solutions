@@ -5,7 +5,7 @@ int main() {
     if (a == b * b){
         printf ("Yes");
     } else {
-        print("No");
+        printf("No");
     }
     return 0;
 }
